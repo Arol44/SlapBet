@@ -1,0 +1,31 @@
+[20-Apr-2012 04:01:13] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/ariellel/public_html/SlapBet/connect.php on line 2
+[20-Apr-2012 04:01:13] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'ariellel'@'localhost' (using password: NO) in /home/ariellel/public_html/SlapBet/connect.php on line 3
+[20-Apr-2012 04:01:13] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/ariellel/public_html/SlapBet/connect.php on line 3
+[20-Apr-2012 04:01:13] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'ariellel'@'localhost' (using password: NO) in /home/ariellel/public_html/SlapBet/signup.php on line 11
+[20-Apr-2012 04:01:13] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/ariellel/public_html/SlapBet/signup.php on line 11
+[20-Apr-2012 04:01:13] PHP Warning:  mysql_insert_id() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /home/ariellel/public_html/SlapBet/signup.php on line 13
+[20-Apr-2012 04:01:20] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/ariellel/public_html/SlapBet/connect.php on line 2
+[20-Apr-2012 04:01:20] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: Access denied for user 'ariellel'@'localhost' (using password: NO) in /home/ariellel/public_html/SlapBet/connect.php on line 3
+[20-Apr-2012 04:01:20] PHP Warning:  mysql_select_db() [<a href='function.mysql-select-db'>function.mysql-select-db</a>]: A link to the server could not be established in /home/ariellel/public_html/SlapBet/connect.php on line 3
+[20-Apr-2012 04:02:33] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ariellel/public_html/SlapBet/characteradded.php on line 39
+[20-Apr-2012 04:09:39] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ariellel/public_html/SlapBet/BetsUnsettled.php on line 39
+[20-Apr-2012 04:09:45] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ariellel/public_html/SlapBet/BetsUnsettled.php on line 39
+[20-Apr-2012 04:09:48] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ariellel/public_html/SlapBet/BetsCompleted.php on line 39
+[20-Apr-2012 04:21:03] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ariellel/public_html/SlapBet/loginValidate.php on line 34
+[20-Apr-2012 04:21:03] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/ariellel/public_html/SlapBet/loginValidate.php on line 35
+[20-Apr-2012 04:21:09] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ariellel/public_html/SlapBet/loginValidate.php on line 34
+[20-Apr-2012 04:21:09] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/ariellel/public_html/SlapBet/loginValidate.php on line 35
+[20-Apr-2012 04:36:24] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ariellel/public_html/SlapBet/loginValidate.php on line 34
+[20-Apr-2012 04:36:24] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/ariellel/public_html/SlapBet/loginValidate.php on line 35
+[20-Apr-2012 04:37:24] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ariellel/public_html/SlapBet/loginValidate.php on line 34
+[20-Apr-2012 04:37:24] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/ariellel/public_html/SlapBet/loginValidate.php on line 35
+[20-Apr-2012 11:28:30] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ariellel/public_html/SlapBet/loginValidate.php on line 34
+[20-Apr-2012 11:28:30] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/ariellel/public_html/SlapBet/loginValidate.php on line 35
+[20-Apr-2012 13:32:22] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ariellel/public_html/SlapBet/loginValidate.php on line 34
+[20-Apr-2012 13:32:22] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/ariellel/public_html/SlapBet/loginValidate.php on line 35
+[20-Apr-2012 13:33:07] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ariellel/public_html/SlapBet/loginValidate.php on line 34
+[20-Apr-2012 13:33:07] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/ariellel/public_html/SlapBet/loginValidate.php on line 35
+[20-Apr-2012 13:55:30] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/ariellel/public_html/SlapBet/thebetters.php on line 49
+[20-Apr-2012 13:55:30] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/ariellel/public_html/SlapBet/thebetters.php on line 63
+[20-Apr-2012 13:55:30] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/ariellel/public_html/SlapBet/thebetters.php on line 78
+[20-Apr-2012 13:59:22] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/ariellel/public_html/SlapBet/Friends.php on line 47

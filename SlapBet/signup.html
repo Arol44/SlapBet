@@ -1,0 +1,35 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Sign Up</title>
+<link href="styles/sbStyle.css" rel="stylesheet" type="text/css" media="all">
+<meta name="viewport" content="initial-scale=1.0, width=device-width" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<script type="text/javascript" src="ajax.js"></script>
+<style>
+body{
+	background-image: url(images/HomePage_tablet.png);
+	background-repeat: no-repeat;
+}
+</style>
+</head>
+
+<body>
+<div id="back">
+<a href="index.html"><img src="images/back.png" /></a>
+</div>
+<div id="loginpage">
+	<img class="loginicon" src="images/SBIcon.png" /><br />
+	<img class="logintitle" src="images/SlapBetTitle.png" /><br />
+<form action="" onsubmit="return signupForm(this)">
+    <b style="float: left; margin-left: 7%;">First Name:</b> <input style="float: right; width: 40%;" type="text" name="firstname" id="firstname" class="loginform" required /><br /><br />
+    <b style="float: left; margin-left: 7%;">Last Name:</b> <input style="float: right; width: 40%;" type="text" name="lastname" id="lastname" class="loginform" required /><br /><br />
+    <b style="float: left; margin-left: 7%;">Username:</b> <input style="float: right; width: 40%;" type="text" name="username" id="username" class="loginform" required /><br /><br />
+    <b style="float: left; margin-left: 7%;">Password:</b> <input style="float: right; width: 40%;" type="text" name="password" id="password" class="loginform" required /> <br /><br /><br />
+    <input style="float: left; width: 44%; max-width: 151px; margin-left: 5%;" type="image" src="images/SignUpButton.png" />
+    </form>
+</div>
+</body>
+</html>

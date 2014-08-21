@@ -1,0 +1,35 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>SlapBet</title>
+<link href="styles/sbStyle.css" rel="stylesheet" type="text/css" media="all">
+<meta name="viewport" content="initial-scale=1.0, width=device-width" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<script type="text/javascript" src="ajax.js"></script>
+<style>
+body{
+	background-image: url(images/HomePage_tablet.png);
+	background-repeat: no-repeat;
+}
+</style>
+</head>
+
+<body>
+<div id="loginpage">
+	<img class="loginicon" src="images/SBIcon.png" /><br />
+	<img class="logintitle" src="images/SlapBetTitle.png" /><br />
+    <form action="" onsubmit="return loginForm(this)">
+    <b style="float: left; margin-left: 7%;">Username:</b> <input style="float: right; width: 40%;" type="text" name="user" id="user" class="loginform" required /><br />
+    <b style="float: left; margin-left: 7%;">Password:</b> <input style="float: right; width: 40%;" type="password" name="password" id="password" class="loginform" required /> <br /><br /><br />
+    <input style="float: left; width: 44%; max-width: 151px; margin-left: 5%;" type="image" src="images/LogInButton2.png" />
+    </form>
+    <div id="signupbutton">
+    <a href="signup.html"><img src="images/SignUpButton.png" /></a>
+    </div>
+    <br />
+    <div id="errors" style="color: #996699; font-weight: bold;" ></div>
+</div>
+</body>
+</html>
